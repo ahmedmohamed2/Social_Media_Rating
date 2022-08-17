@@ -1,0 +1,76 @@
+/* Start Global Roles */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+
+body {
+    background-color: #E4E4E4;
+    font-family: 'Cairo', sans-serif;
+}
+
+h1 {
+    text-shadow: 2px 2px #999;
+}
+
+.main_table {
+    box-shadow: 0 3px 3px #CCC;
+}
+
+.main_table tr:first-child th {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+}
+
+.main_table td {
+    background-color: #FFF;
+    vertical-align: middle !important;
+}
+
+/* End Global Roles */
+
+/* Start Navbar  */
+
+.dropdown-menu.show {
+    top: 37px;
+}
+
+/* End Navbar */
+
+/* Start Review */
+
+.star_light {
+    color: #E9ECEF;
+}
+
+.rating_name {
+    font-size: 18px;
+}
+
+.angry_face {
+    color: red;
+}
+
+.smile_face {
+    color: green;
+}
+
+
+/* End Review */
+
+
+/* Start Dashboard Page */
+
+.progress-label-left {
+    float: left;
+    margin-right: 0.5em;
+    line-height: 1em;
+}
+
+.progress-label-right {
+    float: right;
+    margin-left: 0.3em;
+    line-height: 1em;
+}
+
+/* End Dashboard Page */
+
